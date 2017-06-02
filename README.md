@@ -1,2 +1,2 @@
 # Assault-and-Poverty
-Analyzing the relationship between the assault death rate and the poverty rate using SQLite and R.
+A data analysis exercise exploring the relationship between the assault death rate and the poverty rate using SQLite and R.
